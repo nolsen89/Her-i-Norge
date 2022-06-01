@@ -1,0 +1,18 @@
+/* -------------------------------------------------------------------------- */
+/*                                Falcon Button                               */
+/* -------------------------------------------------------------------------- */
+/* prettier-ignore */
+/*# sourceMappingURL=user.css.map */
+
+.thumbnail
+{
+      width: 200px;
+      height: 200px;
+      overflow: hidden;
+       margin: auto;
+}
+.thumbnail img {
+    width: 200px;
+    height: 100%;
+    object-fit: cover;
+}
